@@ -2,8 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19fefaed-7912-4b28-9911-c0cffe40d7f9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/META-INF/LICENSE-notice.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/META-INF/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AfterAll.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AfterEach.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertAll.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertArrayEquals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertEquals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertFalse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertIterableEquals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertLinesMatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertNotEquals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertNotNull.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertNotSame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertNull.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertSame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertThrows.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertTimeout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertTrue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertionUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Assertions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Assumptions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/BeforeAll.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/BeforeEach.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Disabled.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/DisplayName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/DynamicContainer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/DynamicNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/DynamicTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Nested.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/RepeatedTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/RepetitionInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Tag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Tags.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestInstance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestReporter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestTemplate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/AfterAllCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/AfterEachCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/AfterTestExecutionCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/BeforeAllCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/BeforeEachCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/BeforeTestExecutionCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ConditionEvaluationResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExecutionCondition.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExtendWith.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/Extension.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExtensionConfigurationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExtensionContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExtensionContextException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/Extensions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ParameterContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ParameterResolutionException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ParameterResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/TestExecutionExceptionHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/TestInstancePostProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/TestTemplateInvocationContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/TestTemplateInvocationContextProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/Executable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/ThrowingConsumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/ThrowingSupplier.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/selltom/TestClass.java" afterPath="$PROJECT_DIR$/src/com/selltom/TestClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +92,8 @@
       <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/selltom/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="51">
+              <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,15 +104,15 @@
       <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="125" lean-forward="false" selection-start-line="12" selection-start-column="125" selection-end-line="12" selection-end-column="125" />
+            <state relative-caret-position="102">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Executable.class" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/Executable.class">
+      <file leaf-file-name="ant.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/ant.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -285,7 +349,7 @@
       <workItem from="1508922382060" duration="4251000" />
       <workItem from="1508932738854" duration="9000" />
       <workItem from="1509007709645" duration="249000" />
-      <workItem from="1509008405741" duration="2568000" />
+      <workItem from="1509008405741" duration="4279000" />
     </task>
     <servers />
   </component>
@@ -296,30 +360,33 @@
     <history-entry file="TestClass - 2017.10.26 at 11h 28m 09s.xml">
       <configuration name="TestClass" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestClass - 2017.10.26 at 12h 11m 00s.xml">
+      <configuration name="TestClass" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7077000" />
+    <option name="totallyTimeSpent" value="8788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="41" width="1323" height="730" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3258427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3258427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25056946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25056946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981017" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981017" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -395,24 +462,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/selltom/MainTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/com/selltom/Main.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -434,15 +483,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
+    <entry file="file://$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/Executable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="125" lean-forward="false" selection-start-line="12" selection-start-column="125" selection-end-line="12" selection-end-column="125" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/Executable.class">
+    <entry file="file://$PROJECT_DIR$/src/com/selltom/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/junit-jupiter-api-5.0.0.jar/org/junit/jupiter/api/function/Executable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/selltom/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/ant.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
