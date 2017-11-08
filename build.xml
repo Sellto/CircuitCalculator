@@ -10,7 +10,7 @@
 				<pathelement location="lib/junit4-4.11.jar" />
 			</classpath>
 			<formatter type="plain" usefile="false" />
-			<test name="be.selltom.TestClass.BaseTest" />
+			<test name="be.selltom.TestClass" />
 		</junit>
 	</target>
 </project>
