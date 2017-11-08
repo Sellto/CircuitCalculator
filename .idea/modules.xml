@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CircuitCalculator.iml" filepath="$PROJECT_DIR$/CircuitCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TravisWithAntBase.iml" filepath="$PROJECT_DIR$/TravisWithAntBase.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_traviswithantbase" default="compile.module.traviswithantbase">
+  <dirname property="module.traviswithantbase.basedir" file="${ant.file.module_traviswithantbase}"/>
+  
+  <property name="module.jdk.home.traviswithantbase" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.traviswithantbase" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.traviswithantbase" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.traviswithantbase" value="-encoding UTF-8 -source 9 -target 9 ${compiler.args}"/>
+  
+  <property name="traviswithantbase.output.dir" value="${module.traviswithantbase.basedir}/out/production/TravisWithAntBase"/>
+  <property name="traviswithantbase.testoutput.dir" value="${module.traviswithantbase.basedir}/out/test/TravisWithAntBase"/>
+  
+  <path id="traviswithantbase.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="traviswithantbase.module.production.classpath">
+    <path refid="${module.jdk.classpath.traviswithantbase}"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/junit-jupiter-api-5.0.0.jar"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/opentest4j-1.0.0.jar"/>
+  </path>
+  
+  <path id="traviswithantbase.runtime.production.module.classpath">
+    <pathelement location="${traviswithantbase.output.dir}"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/junit-jupiter-api-5.0.0.jar"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/opentest4j-1.0.0.jar"/>
+  </path>
+  
+  <path id="traviswithantbase.module.classpath">
+    <path refid="${module.jdk.classpath.traviswithantbase}"/>
+    <pathelement location="${traviswithantbase.output.dir}"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/junit-jupiter-api-5.0.0.jar"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/opentest4j-1.0.0.jar"/>
+  </path>
+  
+  <path id="traviswithantbase.runtime.module.classpath">
+    <pathelement location="${traviswithantbase.testoutput.dir}"/>
+    <pathelement location="${traviswithantbase.output.dir}"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/junit-jupiter-api-5.0.0.jar"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/opentest4j-1.0.0.jar"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.traviswithantbase">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.traviswithantbase">
+    <patternset refid="excluded.from.module.traviswithantbase"/>
+  </patternset>
+  
+  <path id="traviswithantbase.module.sourcepath">
+    <dirset dir="${module.traviswithantbase.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.traviswithantbase" depends="compile.module.traviswithantbase.production,compile.module.traviswithantbase.tests" description="Compile module TravisWithAntBase"/>
+  
+  <target name="compile.module.traviswithantbase.production" depends="register.custom.compilers" description="Compile module TravisWithAntBase; production classes">
+    <mkdir dir="${traviswithantbase.output.dir}"/>
+    <javac2 destdir="${traviswithantbase.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.traviswithantbase}/javac">
+      <compilerarg line="${compiler.args.traviswithantbase}"/>
+      <bootclasspath refid="traviswithantbase.module.bootclasspath"/>
+      <classpath refid="traviswithantbase.module.production.classpath"/>
+      <src refid="traviswithantbase.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.traviswithantbase"/>
+    </javac2>
+    
+    <copy todir="${traviswithantbase.output.dir}">
+      <fileset dir="${module.traviswithantbase.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.traviswithantbase.tests" depends="register.custom.compilers,compile.module.traviswithantbase.production" description="compile module TravisWithAntBase; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.traviswithantbase" description="cleanup module">
+    <delete dir="${traviswithantbase.output.dir}"/>
+    <delete dir="${traviswithantbase.testoutput.dir}"/>
+  </target>
+</project>

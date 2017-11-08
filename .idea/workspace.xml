@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19fefaed-7912-4b28-9911-c0cffe40d7f9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/META-INF/LICENSE-notice.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/META-INF/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AfterAll.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AfterEach.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertAll.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertArrayEquals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertEquals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertFalse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertIterableEquals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertLinesMatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertNotEquals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertNotNull.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertNotSame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertNull.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertSame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertThrows.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertTimeout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertTrue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/AssertionUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Assertions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Assumptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/BeforeAll.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/BeforeEach.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Disabled.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/DisplayName.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/DynamicContainer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/DynamicNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/DynamicTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Nested.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/RepeatedTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/RepetitionInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Tag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Tags.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestInstance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestReporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/TestTemplate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/AfterAllCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/AfterEachCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/AfterTestExecutionCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/BeforeAllCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/BeforeEachCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/BeforeTestExecutionCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ConditionEvaluationResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExecutionCondition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExtendWith.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/Extension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExtensionConfigurationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExtensionContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ExtensionContextException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/Extensions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ParameterContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ParameterResolutionException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/ParameterResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/TestExecutionExceptionHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/TestInstancePostProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/TestTemplateInvocationContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/extension/TestTemplateInvocationContextProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/Executable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/ThrowingConsumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/ThrowingSupplier.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
-    </list>
+    <list default="true" id="b009c4cf-b1b7-4c91-b1b1-9a78bac5b0eb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,23 +12,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/selltom/Main.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/be/selltom/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/selltom/TestClass.java">
+        <entry file="file://$PROJECT_DIR$/src/be/selltom/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+            <state relative-caret-position="153">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,17 +45,7 @@
         <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ant.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/ant.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -126,12 +56,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\Programs\JetBrains\IntelliJ IDEA 2017.2.5\plugins\junit\lib\junit-jupiter-api-5.0.0.jar</dir>
+    </dirStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -141,11 +73,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/selltom/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/selltom/Test.java" />
-        <option value="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/Assertions.class" />
-        <option value="$PROJECT_DIR$/src/com/selltom/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/com/selltom/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/be/selltom/Main.java" />
+        <option value="$PROJECT_DIR$/src/be/selltom/TestClass.java" />
+        <option value="$PROJECT_DIR$/lib/junit-jupiter-api-5.0.0.jar/org/junit/jupiter/api/function/Executable.class" />
         <option value="$PROJECT_DIR$/build.xml" />
       </list>
     </option>
@@ -156,14 +86,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-333" />
     <option name="y" value="41" />
     <option name="width" value="1533" />
     <option name="height" value="727" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -180,28 +107,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CircuitCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CircuitCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="TravisWithAntBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravisWithAntBase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CircuitCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CircuitCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CircuitCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravisWithAntBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
-              <item name="CircuitCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravisWithAntBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="JUnit5" type="70bed36:NamedLibraryElementNode" />
             </path>
@@ -209,28 +130,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="build" />
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="true" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.xml" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-jupiter-api-5.0.0.jar!/" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.selltom" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="C:\Users\Selltom\IdeaProjects\TravisWithAntBase\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,7 +164,7 @@
   <component name="RunManager" selected="JUnit.TestClass">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.selltom.Main" />
+      <option name="MAIN_CLASS_NAME" value="be.selltom.Main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -257,23 +173,28 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CircuitCalculator" />
+      <module name="TravisWithAntBase" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="TestClass" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="CircuitCalculator" />
+    <configuration name="TestClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="be.selltom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="TravisWithAntBase" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.selltom" />
-      <option name="MAIN_CLASS_NAME" value="com.selltom.TestClass" />
-      <option name="METHOD_NAME" value="" />
+      <option name="PACKAGE_NAME" value="be.selltom" />
+      <option name="MAIN_CLASS_NAME" value="be.selltom.TestClass" />
+      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -282,19 +203,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestClass.arrondiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestClass.BaseTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.selltom.*" />
+          <option name="PATTERN" value="be.selltom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="CircuitCalculator" />
+      <module name="TravisWithAntBase" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.selltom" />
-      <option name="MAIN_CLASS_NAME" value="com.selltom.TestClass" />
-      <option name="METHOD_NAME" value="arrondiTest" />
+      <option name="PACKAGE_NAME" value="be.selltom" />
+      <option name="MAIN_CLASS_NAME" value="be.selltom.TestClass" />
+      <option name="METHOD_NAME" value="BaseTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -322,16 +243,15 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestClass.arrondiTest" />
-      <item index="2" class="java.lang.String" itemvalue="Android JUnit.TestClass" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestClass" />
+      <item index="1" class="java.lang.String" itemvalue="Android JUnit.TestClass.BaseTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestClass" />
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Android JUnit.TestClass" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestClass.arrondiTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestClass" />
+        <item index="1" class="java.lang.String" itemvalue="Android JUnit.TestClass.BaseTest" />
         <item index="2" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -339,64 +259,44 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="19fefaed-7912-4b28-9911-c0cffe40d7f9" name="Default" comment="" />
-      <created>1508922363458</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1508922363458</updated>
-      <workItem from="1508922382060" duration="4251000" />
-      <workItem from="1508932738854" duration="9000" />
-      <workItem from="1509007709645" duration="249000" />
-      <workItem from="1509008405741" duration="4279000" />
-    </task>
-    <servers />
-  </component>
   <component name="TestHistory">
-    <history-entry file="TestClass - 2017.10.26 at 10h 52m 31s.xml">
-      <configuration name="TestClass" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="TestClass - 2017.10.26 at 11h 28m 09s.xml">
+    <history-entry file="TestClass - 2017.11.08 at 16h 30m 56s.xml">
       <configuration name="TestClass" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass - 2017.10.26 at 12h 11m 00s.xml">
-      <configuration name="TestClass" configurationId="JUnit" />
+    <history-entry file="TestClass_BaseTest - 2017.11.08 at 16h 30m 51s.xml">
+      <configuration name="TestClass.BaseTest" configurationId="AndroidJUnit" />
     </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="41" width="1323" height="730" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3258427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25056946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981017" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,129 +309,53 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-    <buildFile url="file://$PROJECT_DIR$/build.xml">
-      <expanded value="true" />
-    </buildFile>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/Main.java">
+    <entry file="file://$PROJECT_DIR$/build.xml.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/Test.java" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/Assertions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/MainTest.java" />
-    <entry file="file://$PROJECT_DIR$/bin/com/selltom/Main.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-4161">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/com/selltom/TestClass.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#330#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/junit.jar/org/junit/jupiter/api/function/Executable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/junit-jupiter-api-5.0.0.jar/org/junit/jupiter/api/function/Executable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/selltom/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/ant.xml">
+    <entry file="file://$PROJECT_DIR$/src/be/selltom/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/selltom/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -587,7 +411,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>CircuitCalculator</last-edited>
+          <last-edited>TravisWithAntBase</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -599,6 +423,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>junit-jupiter-api-5.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
