@@ -1,11 +1,11 @@
 package be.selltom;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.Test;
+import static org.junit.Assert.*;
 
 public class TestClass {
     @Test
-    void BaseTest() {
+    public void BaseTest() {
         assertEquals(1,1);
     }
 }
