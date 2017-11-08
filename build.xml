@@ -1,4 +1,12 @@
 <project name="TravisWithAntBase">
+  <path id="class.path">
+
+    <!-- include all jars in the lib directory and all sub-directories -->
+    <fileset dir="${lib.dir}">
+      <include name="**/*.jar" />
+    </fileset>
+
+  </path>
   <target name="test">
     <delete dir="bin" />
     <mkdir dir="bin" />
