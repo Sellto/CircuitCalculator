@@ -2,6 +2,7 @@
 	<target name="test">
 		<delete dir="bin" />
 		<mkdir dir="bin" />
+		<javac debug="on" includeantruntime="false" srcdir="." destdir="bin" classpath="lib/apiguardian-api-1.0.0.jar" />
 		<javac debug="on" includeantruntime="false" srcdir="." destdir="bin" classpath="lib/junit-jupiter-api-5.0.0.jar" />
 		
 		<junit printsummary="on" showoutput="true" haltonfailure="yes" fork="true">
